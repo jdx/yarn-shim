@@ -1,0 +1,2 @@
+#!/bin/sh
+yarn --cwd /Users/jdxcode/src/yarn-shim run eslint "$@"
